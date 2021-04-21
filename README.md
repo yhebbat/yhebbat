@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--[my profile in tryhackme](https://tryhackme.com/p/TreVor) 
 
 
-
+<!--
 ![alt text](https://i.imgur.com/UUSoVJU.png "Logo Title Text 1") -->
 
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=yhebbat)](https://github.com/yhebbat)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=yhebbat)](https://github.com/yhebbat)-->
 
 
    [![github stats](https://github-readme-stats.vercel.app/api?username=yhebbat&count_private=true&show_icons=true&theme=dark)](https://github.com/yhebbat/github-readme-stats)
