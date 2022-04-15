@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!--
 ![alt text](https://i.imgur.com/UUSoVJU.png "Logo Title Text 1") -->
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/yhebbat" alt="yhebbat's 42 stats" /></a>
+<img src="https://badge.mediaplus.ma/binary/yhebbat" alt="yhebbat's 42 stats" />
   <!-- [![github stats](https://github-readme-stats.vercel.app/api?username=yhebbat&count_private=true&show_icons=true&theme=dark)](https://github.com/yhebbat/github-readme-stats)
    -->
    
