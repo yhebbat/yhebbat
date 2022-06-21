@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 | Philosophers  | 100     | C project |
 | Piscine C++   | 100     | C++       |
 | Exam_Rank_05  | ...     | Exam      |
+|Webserv        | 100     |  c++      |
 |......         | ...     |  ...      |
 _______________________________________
 
