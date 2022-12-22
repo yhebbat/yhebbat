@@ -47,9 +47,10 @@ Here are some ideas to get you started:
 | Exam_Rank_04  | 100     | Exam      |
 | Philosophers  | 100     | C project |
 | Piscine C++   | 100     | C++       |
-| Exam_Rank_05  | ...     | Exam      |
+| Exam_Rank_05  | 100     | Exam      |
 |Webserv        | 100     |  c++      |
 |ft_container   | 100     |  c++      |
+| Exam_Rank_06  | 100     | Exam      |
 |....           |...      |.          |
 _______________________________________
 
