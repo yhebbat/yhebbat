@@ -27,32 +27,33 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhebbat&langs_count=15&layout=compact&theme=highcontrast)](https://github.com/yhebbat)
 
 # 1337
- ______________________________________
-|   Projects	  |  Score	| Type      |
-|---------------|---------|-----------|
-| Libft         | 104     | C project |
-| Get_Next_Line	| 102     | C project |
-| Printf	      | 100     | C project |
-| NetWhat       | 100     | Network   |
-| Minitalk      | 115     | C project |
-| Push_swap     | 125     | C project |
-| Exam_Rank_02  | 100     | Exam      |
-| ft_server     | 100     | Docker    |
-| Cub3D         | 100     | Raycasting|
-| Exam_Rank_03  | 100     | Exam      |
-| libasm        | 100     | Assambler |
-| inception     | 100     | Docker    |
-| Minishell     | 100     | C project |
-| NetPractice   | 100     | Network   |
-| Exam_Rank_04  | 100     | Exam      |
-| Philosophers  | 100     | C project |
-| Piscine C++   | 100     | C++       |
-| Exam_Rank_05  | 100     | Exam      |
-|Webserv        | 100     |  c++      |
-|ft_container   | 100     |  c++      |
-| Exam_Rank_06  | 100     | Exam      |
-|....           |...      |.          |
-_______________________________________
+ _______________________________________
+|   Projects	    |  Score	| Type      |
+|-----------------|---------|-----------|
+| Libft           | 104     | C project |
+| Get_Next_Line	  | 102     | C project |
+| Printf	        | 100     | C project |
+| NetWhat         | 100     | Network   |
+| Minitalk        | 115     | C project |
+| Push_swap       | 125     | C project |
+| Exam_Rank_02    | 100     | Exam      |
+| ft_server       | 100     | Docker    |
+| Cub3D           | 100     | Raycasting|
+| Exam_Rank_03    | 100     | Exam      |
+| libasm          | 100     | Assambler |
+| inception       | 100     | Docker    |
+| Minishell       | 100     | C project |
+| NetPractice     | 100     | Network   |
+| Exam_Rank_04    | 100     | Exam      |
+| Philosophers    | 100     | C project |
+| Piscine C++     | 100     | C++       |
+| Exam_Rank_05    | 100     | Exam      |
+|Webserv          | 100     |  c++      |
+|ft_container     | 100     |  c++      |
+| Exam_Rank_06    | 100     | Exam      |
+|ft_transcendence | 100     | Exam      |
+|....             |...      |.          |
+_________________________________________
 
 
 
